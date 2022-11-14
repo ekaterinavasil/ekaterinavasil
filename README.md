@@ -19,5 +19,5 @@
  
 - :woman_student: Completed one year course in Practicum by Yandex;
 - :computer: Open to new job opportunities to grow my career as a data analyst professional;
-- :books: Python ( Pandas, Numpy, Matplotlib. Seaborn, SciPy), SQL, Tableau;
+- :books: Python (Pandas, Numpy, Matplotlib. Seaborn, SciPy), SQL, Tableau;
 - :speech_balloon: Get in touch with me at [Telegram](https://t.me/katachai).
