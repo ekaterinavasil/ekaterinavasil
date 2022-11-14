@@ -13,4 +13,5 @@
 </a>
  <a href="https://www.kaggle.com/katerinvas/">
   <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
-</div>
+<div id="badges", align="center">
+<img src="https://komarev.com/ghpvc/?username=ekaterinavasil&style=flat-square&color=blue" alt=""/>
