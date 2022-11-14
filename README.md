@@ -19,6 +19,6 @@
  
 ---
  
-- :woman_student: completed one year course in Practicum by Yandex
-- :computer: Python ( Pandas, Numpy, Matplotlib. Seaborn, SciPy), SQL, Tableau
-- :e-mail: get in touch with me at [Telegram](https://t.me/katachai) 
+- :woman_student: completed one year course in Practicum by Yandex;
+- :computer: Python ( Pandas, Numpy, Matplotlib. Seaborn, SciPy), SQL, Tableau;
+- :e-mail: get in touch with me at [Telegram](https://t.me/katachai).
