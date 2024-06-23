@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Ekaterina</a>  
  <img src="https://media.giphy.com/media/Qp8JVw4n37No6spF3s/giphy.gif" width="100"/>
-<h3 align="center"> Product analyst from Saint-Petersburg 🇷🇺</h3>
+<h3 align="center"> product analyst from Saint-Petersburg 🇷🇺</h3>
 
 
 <div id="badges", align="center">
@@ -17,7 +17,7 @@
 ----
 ### :woman_technologist: About Me :
  
-- :woman_student: Working as Product analyst at T2;
+- :woman_student: Working as product analyst at T2;
 - :computer: Open to new job opportunities to grow my career as a frontend developer;
 - :books: Python (Pandas, Numpy, Matplotlib. Seaborn, SciPy), SQL, Tableau;
 - :speech_balloon: Get in touch with me at [Telegram](https://t.me/katachai).
