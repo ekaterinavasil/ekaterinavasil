@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Ekaterina</a>  
  <img src="https://media.giphy.com/media/Qp8JVw4n37No6spF3s/giphy.gif" width="100"/>
-<h3 align="center"> product analyst from Saint-Petersburg 🇷🇺</h3>
+<h3 align="center"> Product analyst from Saint-Petersburg 🇷🇺</h3>
 
 
 <div id="badges", align="center">
